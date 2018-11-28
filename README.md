@@ -1,2 +1,0 @@
-# LDP
-Label distribution protocol
