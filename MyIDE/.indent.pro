@@ -1,0 +1,22 @@
+--blank-lines-after-procedures
+--brace-indent 0
+--braces-after-if-line
+--declaration-comment-column 50
+--declaration-indentation 15
+--cuddle-do-while
+--cuddle-else
+--case-indentation 3
+--case-brace-indentation 0
+--indent-level 3
+--line-length 80
+--comment-line-length 60
+--no-space-after-function-call-names
+--no-space-after-parentheses
+--no-tabs
+--space-after-if
+--swallow-optional-blank-lines
+--start-left-side-of-comments
+--struct-brace-indentation 0
+--tab-size 3
+--continue-at-parentheses
+--break-after-boolean-operator'
