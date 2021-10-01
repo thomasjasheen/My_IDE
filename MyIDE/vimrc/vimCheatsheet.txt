@@ -8,3 +8,15 @@ do             diffget: (o => obtain). The change under the cursor is replaced
 
 ]c             Jump to the next diff
 [c             Jump to the previous diff
+
+Normal Mode 
+ctrl-o         Jump to previous Jump (Jump is :0,  gg,  G, :0, crt-] {{ ect
+crtl-i         Jump to next jump  {:jump to all the jumps}
+Usecase        You can jump to starting of a funtion using {{ to add a new variable and
+               return back to original line number by ctrl-o
+
+
+g;             Jump to previous change
+g,             Jump to next change
+Usecase        while editing jump to starting of a funtion using {{ to check the variable name
+               and return back to original line number by g;
